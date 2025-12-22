@@ -11,7 +11,7 @@
       {
         "version": "0.1.0",
         "changelog": "Initial release",
-        "targetAbi": "10.11.4",
+        "targetAbi": "10.11.4.0",
         "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.0/AgeTags.zip",
         "checksum": "01635d7feacbbb13f07280e9521aac64e80654c8bcc589afc3abc6ed4d73762a"
       }
