@@ -1,3 +1,9 @@
 ﻿**/bin/
 **/obj/
 publish/
+
+# build outputs / packages
+out/
+package/
+*.zip
+
