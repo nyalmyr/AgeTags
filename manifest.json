@@ -1,0 +1,19 @@
+{
+  "id": "AgeTags",
+  "name": "AgeTags",
+  "description": "Automatically applies age rating tags to media using TMDB, with country priority support.",
+  "overview": "Adds age-based tags to movies and series based on TMDB certifications. Designed for parental control.",
+  "owner": "nyalmyr",
+  "category": "Metadata",
+  "imageUrl": "https://raw.githubusercontent.com/nyalmyr/AgeTags/main/Jellyfin.Plugin.AgeTags/Images/logo-256.png",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "changelog": "Initial release",
+      "targetAbi": "10.11.4",
+      "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.0/AgeTags.zip",
+      "checksum": "",
+      "timestamp": "2025-12-22"
+    }
+  ]
+}
