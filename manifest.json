@@ -13,8 +13,8 @@
         "changelog": "Functional scan Movies/Series/Episodes + AGE tags + dry-run/write.",
         "targetAbi": "10.11.4.0",
         "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.2/AgeTags-0.1.2.zip",
-        "checksum": "TON_MD5_ICI",
-        "timestamp": "2025-12-23T00:00:00Z"
+        "checksum": "REMPLACE_PAR_TON_MD5",
+        "timestamp": "2025-12-23T08:00:00Z"
       },
       {
         "version": "0.1.1",
