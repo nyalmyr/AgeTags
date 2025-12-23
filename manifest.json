@@ -3,14 +3,14 @@
     "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
     "name": "AgeTags",
     "description": "Automatically applies AGE tags (AGE0..AGE18) to media using TMDB certifications.",
-    "overview": "Scans Movies, Series and Episodes, retrieves TMDB certifications by country priority, and applies exactly one AGE tag per item. Supports dry-run and write modes.",
+    "overview": "Scans Movies, Series and Episodes, retrieves TMDB certifications by country priority, and applies exactly one AGE tag per item.",
     "owner": "nyalmyr",
     "category": "Metadata",
     "imageUrl": "https://raw.githubusercontent.com/nyalmyr/AgeTags/main/Jellyfin.Plugin.AgeTags/Images/logo-256.png",
     "versions": [
       {
         "version": "0.1.2",
-        "changelog": "Movies + Series + Episodes scan, TMDB ratings, AGE tags, dry-run/write mode.",
+        "changelog": "v0.1.2",
         "targetAbi": "10.11.4.0",
         "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.2/AgeTags-0.1.2.zip",
         "checksum": "39CFD7502B7AAE2C0943D6F8C3EA150E",
@@ -18,14 +18,14 @@
       },
       {
         "version": "0.1.1",
-        "changelog": "Initial installable release.",
+        "changelog": "v0.1.1",
         "targetAbi": "10.11.4.0",
         "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.1/AgeTags-0.1.1.zip",
         "checksum": "583695C76172B63FBC6E4ACBF0520086"
       },
       {
         "version": "0.1.0",
-        "changelog": "Prototype release.",
+        "changelog": "v0.1.0",
         "targetAbi": "10.11.4.0",
         "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.0/AgeTags.zip",
         "checksum": "AA52539136FB75A00329650A2CD15C85"
