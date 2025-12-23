@@ -8,14 +8,13 @@
     "category": "Metadata",
     "imageUrl": "https://raw.githubusercontent.com/nyalmyr/AgeTags/main/Jellyfin.Plugin.AgeTags/Images/logo-256.png",
     "versions": [
-      {
-        "version": "0.1.2",
-        "changelog": "Functional scan Movies/Series/Episodes + AGE tags + dry-run/write.",
-        "targetAbi": "10.11.4.0",
-        "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.2/AgeTags-0.1.2.zip",
-        "checksum": "39CFD7502B7AAE2C0943D6F8C3EA150E",
-        "timestamp": "2025-12-23T08:00:00Z"
-      },
+    {
+      "version": "0.1.2",
+      "changelog": "v0.1.2",
+      "targetAbi": "10.11.4.0",
+      "sourceUrl": "https://github.com/nyalmyr/AgeTags/releases/download/v0.1.2/AgeTags-0.1.2.zip",
+      "checksum": "39CFD7502B7AAE2C0943D6F8C3EA150E"
+    }
       {
         "version": "0.1.1",
         "changelog": "v0.1.1",
